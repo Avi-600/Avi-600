@@ -10,20 +10,6 @@ Welcome to my GitHub profile! I'm a passionate B.Tech IT student who loves to di
 - 💬 Ask me about web development, databases, algorithms, or anything related to tech!
 - 📫 You can reach me at: avishkarmane600@gmail.com
 
-## Projects
-
-### Portfolio Website
-
-Explore my [portfolio website](https://yourportfolio.com) showcasing my projects and coding journey.
-
-### E-Commerce Platform
-
-I developed an end-to-end e-commerce platform using React, Node.js, and MongoDB. Users can browse products, add them to the cart, and make purchases securely. [View project](https://github.com/yourusername/ecommerce-app)
-
-### Blogging Platform
-
-Built a blogging platform using Django, allowing users to write and share articles. It includes user authentication, rich text editor, and comment functionality. [View project](https://github.com/yourusername/blog-platform)
-
 ## Technical Toolbox
 
 - **Languages:** JavaScript, Java, Python
@@ -35,7 +21,7 @@ Built a blogging platform using Django, allowing users to write and share articl
 
 ## Connect with Me
 
-- [LinkedIn](https://www.linkedin.com/in/yourprofile/)
+- [LinkedIn](www.linkedin.com/in/avishkar-mane)
 
 ## Fun Facts
 
