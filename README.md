@@ -23,10 +23,4 @@ Welcome to my GitHub profile! I'm a passionate B.Tech IT student who loves to di
 
 - [LinkedIn](www.linkedin.com/in/avishkar-mane)
 
-## Fun Facts
 
-- 🎮 I'm an avid gamer and enjoy exploring virtual worlds.
-- 📚 Currently reading "Clean Code" by Robert C. Martin.
-- ⚡ Fun fact: I've participated in multiple hackathons and won a prize for a health-tech project!
-
-Feel free to explore my repositories and reach out if you'd like to collaborate or discuss tech. Let's connect and build something incredible together!
